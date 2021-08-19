@@ -1,0 +1,26 @@
+{
+  "name": "@typescript-slots/client",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@types/canvas-confetti": "^1.4.2",
+    "@types/jest": "^26.0.24",
+    "@types/node": "^16.4.8",
+    "@typescript-eslint/eslint-plugin": "~4.29.2",
+    "@typescript-eslint/parser": "~4.29.2",
+    "eslint": "^7.27.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.3.2",
+    "ts-jest": "^27.0.4",
+    "typescript": "^4.3.2",
+    "vite": "^2.4.4"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.4.0",
+    "pixi.js": "^6.0.4"
+  }
+}
